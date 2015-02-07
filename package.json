@@ -1,0 +1,29 @@
+{
+  "name": "tcb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaysonChiang/tcb.git"
+  },
+  "keywords": [
+    "tcb"
+  ],
+  "author": "jayson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaysonChiang/tcb/issues"
+  },
+  "homepage": "https://github.com/JaysonChiang/tcb",
+  "devDependencies": {
+    "connect-livereload": "^0.5.2",
+    "express": "^4.11.2",
+    "gulp": "^3.8.10",
+    "gulp-sass": "^1.3.2",
+    "tiny-lr": "^0.1.5"
+  }
+}
